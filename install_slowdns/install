@@ -71,7 +71,7 @@ sleep 2
 fun_bar 'fun_dnscf'
 clear
 echo -e "\033[1;31m════════════════════════════════════════════════════\033[0m"
-tput setaf 7 ; tput setab 4 ; tput bold ; printf '%40s%s%-12s\n' "DEXTER SLOWDNS INSTALLER" ; tput sgr0
+tput setaf 7 ; tput setab 4 ; tput bold ; printf '%40s%s%-12s\n' "CUSTOM VPN SLOWDNS INSTALLER" ; tput sgr0
 echo -e "\033[1;31m════════════════════════════════════════════════════\033[0m"
 echo ""
 echo -e "          \033[1;33mINSTALLATION COMPLETE!\033[0m          "
