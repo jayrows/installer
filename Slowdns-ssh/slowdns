@@ -21,7 +21,7 @@ banner='
 '
                                           
 echo -e "${CORTITLE}=====================================${SCOLOR}" 
-echo -e "${CORTITLE}       XJ SLOWDNS SSH MANAGER      ${SCOLOR}"
+echo -e "${CORTITLE}       CV SLOWDNS SSH MANAGER      ${SCOLOR}"
 echo -e "${CORTITLE}=====================================${SCOLOR}" 
 echo -e "${RED}$banner${SCOLOR}"
 [[ ! -e dns ]] && {
