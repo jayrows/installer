@@ -1,0 +1,73 @@
+{
+   "AppNotAllowed": [
+      {
+         "Name": "com.guoshi.httpcanary"
+      },
+      {
+         "Name": "app.greyshirts.sslcapture"
+      },
+      {
+         "Name": "com.guoshi.httpcanary.premium"
+      },
+      {
+         "Name": "com.minhui.networkcapture.pro"
+      },
+      {
+         "Name": "com.minhui.networkcapture"
+      },
+      {
+         "Name": "com.egorovandreyrm.pcapremote"
+      },
+      {
+         "Name": "com.packagesniffer.frtparlak"
+      },
+      {
+         "Name": "jp.co.taosoftware.android.packetcapture"
+      },
+      {
+         "Name": "com.emanuelef.remote_capture"
+      },
+      {
+         "Name": "com.minhui.wifianalyzer"
+      },
+      {
+         "Name": "com.evbadroid.proxymon"
+      },
+      {
+         "Name": "com.evbadroid.wicap"
+      },
+      {
+         "Name": "com.evbadroid.wicapdemo"
+      },
+      {
+         "Name": "com.luckypatchers.luckypatcherinstaller"
+      },
+      {
+         "Name": "ru.UbLBBRLf.jSziIaUjL"
+      }
+   ],
+   "AppsRoot": [
+      {
+         "Name": "com.thirdparty.superuser"
+      },
+      {
+         "Name": "com.noshufou.android.su"
+      },
+      {
+         "Name": "eu.chainfire.supersu"
+      },
+      {
+         "Name": "com.zachspong.temprootremovejb"
+      },
+      {
+         "Name": "com.koushikdutta.superuser"
+      },
+      {
+         "Name": "com.ramdroid.appquarantine"
+      },
+      {
+         "Name": "com.topjohnwu.magisk"
+      }
+   ],
+   "Version": "0.2"
+}
